@@ -1,0 +1,39 @@
+<!-- Page Header -->
+<section class="page-header">
+    <div class="container">
+        <h1>Blog</h1>
+        <p class="page-subtitle">{{intro}}</p>
+    </div>
+</section>
+
+<!-- Filter Section -->
+<section class="filter-section">
+    <div class="container">
+        <div class="blog-filters">
+            <!-- Categories -->
+            <div class="filter-group">
+                <label>{{categories-label}}:</label>
+                <div class="filter-buttons" id="categoryFilter">
+                    <button class="filter-btn active" data-category="all">{{all}}</button>
+                    {{categories}}
+                </div>
+            </div>
+            <!-- Tags -->
+            <div class="filter-group">
+                <label>{{tags-label}}:</label>
+                <div class="filter-tags" id="tagFilter">
+                    {{tags}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Blog Posts Grid -->
+<section class="blog-section">
+    <div class="container">
+        <div class="blog-grid" id="blogGrid">
+            {{blog-posts}}
+        </div>
+    </div>
+</section>
