@@ -1,0 +1,93 @@
+{
+  "site": {
+    "name": "Portfolio System Admin",
+    "tagline": {
+      "pt": "Especialista em Soluções Microsoft",
+      "en": "Microsoft Solutions Expert",
+      "es": "Experto en Soluciones Microsoft"
+    },
+    "description": {
+      "pt": "Portfolio profissional de System Admin especializado em Microsoft, Azure, Microsoft 365 e Power Platform",
+      "en": "Professional portfolio of System Admin specialized in Microsoft, Azure, Microsoft 365 and Power Platform",
+      "es": "Portafolio profesional de System Admin especializado en Microsoft, Azure, Microsoft 365 y Power Platform"
+    },
+    "author": "Seu Nome",
+    "url": "https://seudominio.com",
+    "email": "contato@seudominio.com",
+    "social": {
+      "linkedin": "https://linkedin.com/in/seuperfil",
+      "github": "https://github.com/seuperfil",
+      "twitter": "https://twitter.com/seuperfil"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "pt": "System Admin, Microsoft, Azure, Microsoft 365, Power Platform, PowerShell, Active Directory",
+      "en": "System Admin, Microsoft, Azure, Microsoft 365, Power Platform, PowerShell, Active Directory",
+      "es": "System Admin, Microsoft, Azure, Microsoft 365, Power Platform, PowerShell, Active Directory"
+    },
+    "ogImage": "/assets/images/og-image.jpg",
+    "twitterCard": "summary_large_image"
+  },
+  "disqus": {
+    "shortname": "seu-shortname-disqus"
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": {
+        "pt": "Início",
+        "en": "Home",
+        "es": "Inicio"
+      },
+      "url": "index.html"
+    },
+    {
+      "id": "about",
+      "label": {
+        "pt": "Sobre",
+        "en": "About",
+        "es": "Acerca"
+      },
+      "url": "about.html"
+    },
+    {
+      "id": "portfolio",
+      "label": {
+        "pt": "Portfólio",
+        "en": "Portfolio",
+        "es": "Portafolio"
+      },
+      "url": "portfolio.html"
+    },
+    {
+      "id": "services",
+      "label": {
+        "pt": "Serviços",
+        "en": "Services",
+        "es": "Servicios"
+      },
+      "url": "services.html"
+    },
+    {
+      "id": "blog",
+      "label": {
+        "pt": "Blog",
+        "en": "Blog",
+        "es": "Blog"
+      },
+      "url": "blog.html"
+    },
+    {
+      "id": "contact",
+      "label": {
+        "pt": "Contato",
+        "en": "Contact",
+        "es": "Contacto"
+      },
+      "url": "contact.html"
+    }
+  ],
+  "languages": ["pt", "en", "es"],
+  "defaultLanguage": "pt"
+}

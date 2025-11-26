@@ -1,0 +1,246 @@
+{
+  "projects": [
+    {
+      "id": "azure-cloud-migration",
+      "title": {
+        "pt": "Migração Completa para Azure Cloud",
+        "en": "Complete Azure Cloud Migration",
+        "es": "Migración Completa a Azure Cloud"
+      },
+      "slug": "azure-cloud-migration",
+      "category": "Cloud Migration",
+      "date": "2024-09",
+      "client": {
+        "pt": "Empresa de Logística - 500+ usuários",
+        "en": "Logistics Company - 500+ users",
+        "es": "Empresa de Logística - 500+ usuarios"
+      },
+      "image": "/assets/images/projects/azure-migration.jpg",
+      "gallery": [
+        "/assets/images/projects/azure-migration-1.jpg",
+        "/assets/images/projects/azure-migration-2.jpg",
+        "/assets/images/projects/azure-migration-3.jpg"
+      ],
+      "summary": {
+        "pt": "Migração completa de infraestrutura on-premises para Microsoft Azure, incluindo 50+ servidores e 500+ usuários.",
+        "en": "Complete infrastructure migration from on-premises to Microsoft Azure, including 50+ servers and 500+ users.",
+        "es": "Migración completa de infraestructura on-premises a Microsoft Azure, incluyendo 50+ servidores y 500+ usuarios."
+      },
+      "challenge": {
+        "pt": "A empresa possuía uma infraestrutura on-premises complexa com diversos servidores físicos, aplicações legadas e dependências críticas. O principal desafio era realizar a migração sem interrupção dos serviços e minimizando o impacto nos usuários finais. Além disso, havia a necessidade de reduzir custos operacionais e melhorar a disponibilidade dos serviços.",
+        "en": "The company had a complex on-premises infrastructure with several physical servers, legacy applications and critical dependencies. The main challenge was to perform the migration without service interruption and minimizing impact on end users. Additionally, there was a need to reduce operational costs and improve service availability.",
+        "es": "La empresa poseía una infraestructura on-premises compleja con diversos servidores físicos, aplicaciones legacy y dependencias críticas. El principal desafío era realizar la migración sin interrupción de servicios y minimizando el impacto en los usuarios finales. Además, había la necesidad de reducir costos operacionales y mejorar la disponibilidad de los servicios."
+      },
+      "solution": {
+        "pt": "Implementação de uma estratégia de migração híbrida utilizando Azure Site Recovery, Azure Migrate e Azure ExpressRoute. A solução incluiu:\n\n- **Fase 1 - Assessment**: Análise completa da infraestrutura existente usando Azure Migrate\n- **Fase 2 - Preparação**: Criação da arquitetura Azure, incluindo VNets, Subnets, NSGs e ExpressRoute\n- **Fase 3 - Migração Piloto**: Migração de servidores não-críticos para validação\n- **Fase 4 - Migração em Massa**: Migração de todos os servidores em janelas de manutenção\n- **Fase 5 - Otimização**: Implementação de Auto-scaling, Azure Backup e Azure Monitor\n\nTecnologias utilizadas:\n- Azure Virtual Machines\n- Azure Site Recovery\n- Azure ExpressRoute\n- Azure Backup\n- Azure Monitor\n- Azure Security Center\n- PowerShell para automação",
+        "en": "Implementation of a hybrid migration strategy using Azure Site Recovery, Azure Migrate and Azure ExpressRoute. The solution included:\n\n- **Phase 1 - Assessment**: Complete analysis of existing infrastructure using Azure Migrate\n- **Phase 2 - Preparation**: Creation of Azure architecture, including VNets, Subnets, NSGs and ExpressRoute\n- **Phase 3 - Pilot Migration**: Migration of non-critical servers for validation\n- **Phase 4 - Mass Migration**: Migration of all servers in maintenance windows\n- **Phase 5 - Optimization**: Implementation of Auto-scaling, Azure Backup and Azure Monitor\n\nTechnologies used:\n- Azure Virtual Machines\n- Azure Site Recovery\n- Azure ExpressRoute\n- Azure Backup\n- Azure Monitor\n- Azure Security Center\n- PowerShell for automation",
+        "es": "Implementación de una estrategia de migración híbrida utilizando Azure Site Recovery, Azure Migrate y Azure ExpressRoute. La solución incluyó:\n\n- **Fase 1 - Assessment**: Análisis completo de la infraestructura existente usando Azure Migrate\n- **Fase 2 - Preparación**: Creación de la arquitectura Azure, incluyendo VNets, Subnets, NSGs y ExpressRoute\n- **Fase 3 - Migración Piloto**: Migración de servidores no críticos para validación\n- **Fase 4 - Migración en Masa**: Migración de todos los servidores en ventanas de mantenimiento\n- **Fase 5 - Optimización**: Implementación de Auto-scaling, Azure Backup y Azure Monitor\n\nTecnologías utilizadas:\n- Azure Virtual Machines\n- Azure Site Recovery\n- Azure ExpressRoute\n- Azure Backup\n- Azure Monitor\n- Azure Security Center\n- PowerShell para automatización"
+      },
+      "results": {
+        "pt": "- ✅ **100% de uptime** durante todo o processo de migração\n- 💰 **Redução de 35% nos custos** operacionais de TI\n- ⚡ **Melhoria de 40% na performance** das aplicações\n- 🔒 **99.9% de disponibilidade** com SLA Azure\n- ⏱️ **Redução de 60% no tempo** de recuperação de desastres\n- 📊 **Monitoramento centralizado** de toda infraestrutura\n- 🔐 **Segurança aprimorada** com Azure Security Center\n- 📈 **Escalabilidade automática** baseada em demanda",
+        "en": "- ✅ **100% uptime** throughout the migration process\n- 💰 **35% reduction in IT** operational costs\n- ⚡ **40% improvement in application** performance\n- 🔒 **99.9% availability** with Azure SLA\n- ⏱️ **60% reduction in disaster** recovery time\n- 📊 **Centralized monitoring** of entire infrastructure\n- 🔐 **Enhanced security** with Azure Security Center\n- 📈 **Auto-scaling** based on demand",
+        "es": "- ✅ **100% de uptime** durante todo el proceso de migración\n- 💰 **Reducción de 35% en costos** operacionales de TI\n- ⚡ **Mejora de 40% en el rendimiento** de las aplicaciones\n- 🔒 **99.9% de disponibilidad** con SLA Azure\n- ⏱️ **Reducción de 60% en el tiempo** de recuperación de desastres\n- 📊 **Monitoreo centralizado** de toda la infraestructura\n- 🔐 **Seguridad mejorada** con Azure Security Center\n- 📈 **Escalabilidad automática** basada en demanda"
+      },
+      "technologies": [
+        "Microsoft Azure",
+        "Azure Virtual Machines",
+        "Azure Site Recovery",
+        "Azure Migrate",
+        "Azure ExpressRoute",
+        "Azure Backup",
+        "Azure Monitor",
+        "Azure Security Center",
+        "PowerShell",
+        "Azure DevOps"
+      ],
+      "testimonial": {
+        "pt": "A migração para Azure transformou nossa infraestrutura de TI. A equipe demonstrou profundo conhecimento técnico e executou o projeto com excelência.",
+        "en": "The migration to Azure transformed our IT infrastructure. The team demonstrated deep technical knowledge and executed the project with excellence.",
+        "es": "La migración a Azure transformó nuestra infraestructura de TI. El equipo demostró profundo conocimiento técnico y ejecutó el proyecto con excelencia.",
+        "author": "CTO da Empresa"
+      }
+    },
+    {
+      "id": "microsoft-365-deployment",
+      "title": {
+        "pt": "Implementação Microsoft 365 Enterprise",
+        "en": "Microsoft 365 Enterprise Deployment",
+        "es": "Implementación Microsoft 365 Enterprise"
+      },
+      "slug": "microsoft-365-deployment",
+      "category": "Microsoft 365",
+      "date": "2024-08",
+      "client": {
+        "pt": "Empresa Financeira - 800+ usuários",
+        "en": "Financial Company - 800+ users",
+        "es": "Empresa Financiera - 800+ usuarios"
+      },
+      "image": "/assets/images/projects/m365-deployment.jpg",
+      "gallery": [
+        "/assets/images/projects/m365-deployment-1.jpg",
+        "/assets/images/projects/m365-deployment-2.jpg"
+      ],
+      "summary": {
+        "pt": "Implementação completa do Microsoft 365 incluindo migração de email, implementação de Teams, SharePoint Online e políticas de segurança.",
+        "en": "Complete Microsoft 365 implementation including email migration, Teams deployment, SharePoint Online and security policies.",
+        "es": "Implementación completa de Microsoft 365 incluyendo migración de email, implementación de Teams, SharePoint Online y políticas de seguridad."
+      },
+      "challenge": {
+        "pt": "A empresa utilizava um servidor Exchange on-premises obsoleto e não possuía ferramentas modernas de colaboração. Havia necessidade urgente de modernização da comunicação corporativa, implementação de trabalho remoto seguro e conformidade com regulamentações do setor financeiro (LGPD, PCI-DSS). O desafio incluía migrar 800+ caixas de correio (15TB de dados) sem perda de informações e garantir adoção pelos usuários.",
+        "en": "The company used an obsolete on-premises Exchange server and lacked modern collaboration tools. There was an urgent need to modernize corporate communication, implement secure remote work and comply with financial sector regulations (LGPD, PCI-DSS). The challenge included migrating 800+ mailboxes (15TB of data) without information loss and ensuring user adoption.",
+        "es": "La empresa utilizaba un servidor Exchange on-premises obsoleto y no poseía herramientas modernas de colaboración. Había necesidad urgente de modernización de la comunicación corporativa, implementación de trabajo remoto seguro y conformidad con regulaciones del sector financiero (LGPD, PCI-DSS). El desafío incluía migrar 800+ buzones de correo (15TB de datos) sin pérdida de información y garantizar adopción por los usuarios."
+      },
+      "solution": {
+        "pt": "Implementação completa do Microsoft 365 E5 com foco em segurança e compliance:\n\n**Migração de Email:**\n- Uso de BitTitan MigrationWiz para migração híbrida\n- Migração em ondas por departamento\n- Zero downtime durante a migração\n- Sincronização de calendários e contatos\n\n**Colaboração e Produtividade:**\n- Implementação do Microsoft Teams como hub de colaboração\n- SharePoint Online para gestão documental\n- OneDrive for Business para arquivos pessoais\n- Power Platform para automações\n\n**Segurança e Compliance:**\n- Azure AD Premium P2 com Conditional Access\n- Multi-Factor Authentication obrigatório\n- Data Loss Prevention (DLP) policies\n- Microsoft Defender for Office 365\n- Information Protection e Sensitivity Labels\n- eDiscovery e Litigation Hold\n\n**Treinamento:**\n- Workshops para todas as equipes\n- Documentação personalizada\n- Champions program\n- Suporte dedicado pós-implementação",
+        "en": "Complete implementation of Microsoft 365 E5 with focus on security and compliance:\n\n**Email Migration:**\n- Use of BitTitan MigrationWiz for hybrid migration\n- Wave migration by department\n- Zero downtime during migration\n- Calendar and contacts synchronization\n\n**Collaboration and Productivity:**\n- Microsoft Teams implementation as collaboration hub\n- SharePoint Online for document management\n- OneDrive for Business for personal files\n- Power Platform for automations\n\n**Security and Compliance:**\n- Azure AD Premium P2 with Conditional Access\n- Mandatory Multi-Factor Authentication\n- Data Loss Prevention (DLP) policies\n- Microsoft Defender for Office 365\n- Information Protection and Sensitivity Labels\n- eDiscovery and Litigation Hold\n\n**Training:**\n- Workshops for all teams\n- Customized documentation\n- Champions program\n- Dedicated post-implementation support",
+        "es": "Implementación completa de Microsoft 365 E5 con enfoque en seguridad y compliance:\n\n**Migración de Email:**\n- Uso de BitTitan MigrationWiz para migración híbrida\n- Migración en ondas por departamento\n- Zero downtime durante la migración\n- Sincronización de calendarios y contactos\n\n**Colaboración y Productividad:**\n- Implementación de Microsoft Teams como hub de colaboración\n- SharePoint Online para gestión documental\n- OneDrive for Business para archivos personales\n- Power Platform para automatizaciones\n\n**Seguridad y Compliance:**\n- Azure AD Premium P2 con Acceso Condicional\n- Multi-Factor Authentication obligatorio\n- Políticas de Data Loss Prevention (DLP)\n- Microsoft Defender para Office 365\n- Information Protection y Sensitivity Labels\n- eDiscovery y Litigation Hold\n\n**Capacitación:**\n- Workshops para todos los equipos\n- Documentación personalizada\n- Programa Champions\n- Soporte dedicado post-implementación"
+      },
+      "results": {
+        "pt": "- ✅ **Zero perda de dados** na migração de 15TB\n- 🚀 **Migração concluída em 6 semanas**, 2 semanas antes do prazo\n- 👥 **95% de adoção do Teams** nos primeiros 3 meses\n- 🔒 **100% de conformidade** com regulamentações\n- 💰 **Redução de 45% nos custos** com infraestrutura de email\n- ⚡ **70% de redução** em incidentes de segurança\n- 📈 **Aumento de 50% na colaboração** entre equipes\n- 🎯 **NPS de 85** na pesquisa de satisfação dos usuários",
+        "en": "- ✅ **Zero data loss** in 15TB migration\n- 🚀 **Migration completed in 6 weeks**, 2 weeks ahead of schedule\n- 👥 **95% Teams adoption** in the first 3 months\n- 🔒 **100% compliance** with regulations\n- 💰 **45% reduction in email** infrastructure costs\n- ⚡ **70% reduction** in security incidents\n- 📈 **50% increase in collaboration** between teams\n- 🎯 **NPS of 85** in user satisfaction survey",
+        "es": "- ✅ **Cero pérdida de datos** en migración de 15TB\n- 🚀 **Migración completada en 6 semanas**, 2 semanas antes del plazo\n- 👥 **95% de adopción de Teams** en los primeros 3 meses\n- 🔒 **100% de conformidad** con regulaciones\n- 💰 **Reducción de 45% en costos** con infraestructura de email\n- ⚡ **70% de reducción** en incidentes de seguridad\n- 📈 **Aumento de 50% en colaboración** entre equipos\n- 🎯 **NPS de 85** en encuesta de satisfacción de usuarios"
+      },
+      "technologies": [
+        "Microsoft 365 E5",
+        "Exchange Online",
+        "Microsoft Teams",
+        "SharePoint Online",
+        "OneDrive for Business",
+        "Azure AD Premium P2",
+        "Microsoft Defender for Office 365",
+        "Information Protection",
+        "Data Loss Prevention",
+        "Power Platform",
+        "BitTitan MigrationWiz",
+        "PowerShell"
+      ],
+      "testimonial": {
+        "pt": "A implementação do Microsoft 365 revolucionou nossa forma de trabalhar. A segurança e compliance foram tratados com a seriedade que o setor financeiro exige.",
+        "en": "The Microsoft 365 implementation revolutionized our way of working. Security and compliance were treated with the seriousness that the financial sector requires.",
+        "es": "La implementación de Microsoft 365 revolucionó nuestra forma de trabajar. La seguridad y compliance fueron tratados con la seriedad que el sector financiero exige.",
+        "author": "CISO da Empresa"
+      }
+    },
+    {
+      "id": "power-platform-automation",
+      "title": {
+        "pt": "Automação de Processos com Power Platform",
+        "en": "Process Automation with Power Platform",
+        "es": "Automatización de Procesos con Power Platform"
+      },
+      "slug": "power-platform-automation",
+      "category": "Power Platform",
+      "date": "2024-07",
+      "client": {
+        "pt": "Indústria Farmacêutica - 1200+ usuários",
+        "en": "Pharmaceutical Industry - 1200+ users",
+        "es": "Industria Farmacéutica - 1200+ usuarios"
+      },
+      "image": "/assets/images/projects/power-platform.jpg",
+      "gallery": [
+        "/assets/images/projects/power-platform-1.jpg",
+        "/assets/images/projects/power-platform-2.jpg",
+        "/assets/images/projects/power-platform-3.jpg"
+      ],
+      "summary": {
+        "pt": "Desenvolvimento de soluções de automação usando Power Automate, Power Apps e Power BI para otimizar processos de aprovação, gestão de documentos e análise de dados.",
+        "en": "Development of automation solutions using Power Automate, Power Apps and Power BI to optimize approval processes, document management and data analysis.",
+        "es": "Desarrollo de soluciones de automatización usando Power Automate, Power Apps y Power BI para optimizar procesos de aprobación, gestión de documentos y análisis de datos."
+      },
+      "challenge": {
+        "pt": "A empresa possuía processos manuais complexos que consumiam tempo significativo das equipes, incluindo aprovações em papel, gestão descentralizada de documentos regulatórios, falta de visibilidade sobre KPIs operacionais e processos de auditoria demorados. Havia necessidade de digitalizar e automatizar sem comprometer a conformidade regulatória (ANVISA, FDA).",
+        "en": "The company had complex manual processes that consumed significant team time, including paper approvals, decentralized regulatory document management, lack of visibility on operational KPIs and time-consuming audit processes. There was a need to digitize and automate without compromising regulatory compliance (ANVISA, FDA).",
+        "es": "La empresa poseía procesos manuales complejos que consumían tiempo significativo de los equipos, incluyendo aprobaciones en papel, gestión descentralizada de documentos regulatorios, falta de visibilidad sobre KPIs operacionales y procesos de auditoría demorados. Había necesidad de digitalizar y automatizar sin comprometer la conformidad regulatoria (ANVISA, FDA)."
+      },
+      "solution": {
+        "pt": "Implementação de soluções integradas usando Power Platform:\n\n**Power Apps:**\n- App de aprovação de documentos regulatórios\n- App de gestão de não conformidades\n- App de controle de treinamentos obrigatórios\n- App mobile para inspeções de qualidade\n\n**Power Automate:**\n- Fluxos de aprovação multinível\n- Automação de notificações por email e Teams\n- Integração com SharePoint para gestão documental\n- OCR e processamento de documentos\n- Sincronização com ERP (SAP)\n\n**Power BI:**\n- Dashboard executivo com KPIs em tempo real\n- Relatórios de conformidade regulatória\n- Análise de qualidade e desvios\n- Tracking de aprovações e SLA\n\n**Dataverse:**\n- Modelo de dados centralizado\n- Histórico completo de auditoria\n- Segurança em nível de linha\n- Integração com Azure AD\n\n**Governança:**\n- DLP policies configuradas\n- CoE Starter Kit implementado\n- Ambiente de desenvolvimento separado\n- Processo de ALM definido",
+        "en": "Implementation of integrated solutions using Power Platform:\n\n**Power Apps:**\n- Regulatory document approval app\n- Non-conformity management app\n- Mandatory training control app\n- Mobile app for quality inspections\n\n**Power Automate:**\n- Multi-level approval flows\n- Email and Teams notification automation\n- SharePoint integration for document management\n- OCR and document processing\n- ERP synchronization (SAP)\n\n**Power BI:**\n- Executive dashboard with real-time KPIs\n- Regulatory compliance reports\n- Quality and deviation analysis\n- Approval and SLA tracking\n\n**Dataverse:**\n- Centralized data model\n- Complete audit history\n- Row-level security\n- Azure AD integration\n\n**Governance:**\n- DLP policies configured\n- CoE Starter Kit implemented\n- Separate development environment\n- ALM process defined",
+        "es": "Implementación de soluciones integradas usando Power Platform:\n\n**Power Apps:**\n- App de aprobación de documentos regulatorios\n- App de gestión de no conformidades\n- App de control de capacitaciones obligatorias\n- App mobile para inspecciones de calidad\n\n**Power Automate:**\n- Flujos de aprobación multinivel\n- Automatización de notificaciones por email y Teams\n- Integración con SharePoint para gestión documental\n- OCR y procesamiento de documentos\n- Sincronización con ERP (SAP)\n\n**Power BI:**\n- Dashboard ejecutivo con KPIs en tiempo real\n- Reportes de conformidad regulatoria\n- Análisis de calidad y desvíos\n- Tracking de aprobaciones y SLA\n\n**Dataverse:**\n- Modelo de datos centralizado\n- Historial completo de auditoría\n- Seguridad a nivel de fila\n- Integración con Azure AD\n\n**Gobernanza:**\n- Políticas DLP configuradas\n- CoE Starter Kit implementado\n- Ambiente de desarrollo separado\n- Proceso de ALM definido"
+      },
+      "results": {
+        "pt": "- ⏱️ **Redução de 80% no tempo** de aprovação de documentos\n- 📄 **100% de processos digitalizados**, eliminando papel\n- 💰 **Economia de 500 horas/mês** em processos manuais\n- 📊 **Visibilidade em tempo real** de todos os KPIs\n- ✅ **Aprovação em auditoria ANVISA** sem não conformidades\n- 🚀 **ROI de 250%** no primeiro ano\n- 👥 **95% de satisfação** dos usuários finais\n- 🔍 **100% de rastreabilidade** para auditorias\n- ⚡ **Redução de 90% em erros** de processos manuais",
+        "en": "- ⏱️ **80% reduction in document** approval time\n- 📄 **100% of processes digitized**, eliminating paper\n- 💰 **Savings of 500 hours/month** in manual processes\n- 📊 **Real-time visibility** of all KPIs\n- ✅ **ANVISA audit approval** without non-conformities\n- 🚀 **ROI of 250%** in the first year\n- 👥 **95% satisfaction** from end users\n- 🔍 **100% traceability** for audits\n- ⚡ **90% reduction in manual** process errors",
+        "es": "- ⏱️ **Reducción de 80% en tiempo** de aprobación de documentos\n- 📄 **100% de procesos digitalizados**, eliminando papel\n- 💰 **Ahorro de 500 horas/mes** en procesos manuales\n- 📊 **Visibilidad en tiempo real** de todos los KPIs\n- ✅ **Aprobación en auditoría ANVISA** sin no conformidades\n- 🚀 **ROI de 250%** en el primer año\n- 👥 **95% de satisfacción** de usuarios finales\n- 🔍 **100% de trazabilidad** para auditorías\n- ⚡ **Reducción de 90% en errores** de procesos manuales"
+      },
+      "technologies": [
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "Dataverse",
+        "SharePoint Online",
+        "Microsoft Teams",
+        "Azure AD",
+        "AI Builder",
+        "Power Platform CoE",
+        "Power Platform CLI",
+        "ALM Toolkit"
+      ],
+      "testimonial": {
+        "pt": "A automação transformou completamente nossa operação. Processos que levavam dias agora são concluídos em horas, mantendo total conformidade regulatória.",
+        "en": "Automation completely transformed our operation. Processes that took days are now completed in hours, maintaining full regulatory compliance.",
+        "es": "La automatización transformó completamente nuestra operación. Procesos que tomaban días ahora se completan en horas, manteniendo total conformidad regulatoria.",
+        "author": "Diretor de Operações"
+      }
+    },
+    {
+      "id": "hybrid-identity-implementation",
+      "title": {
+        "pt": "Implementação de Identidade Híbrida Azure AD",
+        "en": "Hybrid Identity Azure AD Implementation",
+        "es": "Implementación de Identidad Híbrida Azure AD"
+      },
+      "slug": "hybrid-identity-implementation",
+      "category": "Security",
+      "date": "2024-06",
+      "client": {
+        "pt": "Multinacional de Tecnologia - 2000+ usuários",
+        "en": "Technology Multinational - 2000+ users",
+        "es": "Multinacional de Tecnología - 2000+ usuarios"
+      },
+      "image": "/assets/images/projects/hybrid-identity.jpg",
+      "gallery": [
+        "/assets/images/projects/hybrid-identity-1.jpg",
+        "/assets/images/projects/hybrid-identity-2.jpg"
+      ],
+      "summary": {
+        "pt": "Implementação de solução de identidade híbrida com Azure AD Connect, SSO, MFA e Conditional Access para 2000+ usuários em múltiplas geografias.",
+        "en": "Hybrid identity solution implementation with Azure AD Connect, SSO, MFA and Conditional Access for 2000+ users across multiple geographies.",
+        "es": "Implementación de solución de identidad híbrida con Azure AD Connect, SSO, MFA y Acceso Condicional para 2000+ usuarios en múltiples geografías."
+      },
+      "challenge": {
+        "pt": "Empresa com múltiplas florestas Active Directory, aplicações legadas e moderna stack cloud. Usuários precisavam de múltiplos logins, gerando frustração e riscos de segurança. Havia necessidade de unificar identidades, implementar SSO, garantir MFA sem impactar UX e manter compatibilidade com aplicações legadas.",
+        "en": "Company with multiple Active Directory forests, legacy applications and modern cloud stack. Users needed multiple logins, creating frustration and security risks. There was a need to unify identities, implement SSO, ensure MFA without impacting UX and maintain compatibility with legacy applications.",
+        "es": "Empresa con múltiples bosques Active Directory, aplicaciones legacy y moderna stack cloud. Usuarios necesitaban múltiples logins, generando frustración y riesgos de seguridad. Había necesidad de unificar identidades, implementar SSO, garantizar MFA sin impactar UX y mantener compatibilidad con aplicaciones legacy."
+      },
+      "solution": {
+        "pt": "**Arquitetura de Identidade Híbrida:**\n- Azure AD Connect em modo de alta disponibilidade\n- Password Hash Synchronization como método primário\n- Pass-through Authentication como backup\n- Seamless SSO para aplicações Windows Integrated Auth\n\n**Autenticação e Segurança:**\n- Azure AD Premium P2\n- Conditional Access policies por localização, dispositivo e risco\n- MFA adaptativo com Microsoft Authenticator\n- Azure AD Identity Protection\n- Privileged Identity Management (PIM)\n\n**Integração de Aplicações:**\n- 50+ aplicações SaaS integradas via SAML/OAuth\n- Application Proxy para apps on-premises\n- Legacy apps via Federation Services\n\n**Governança:**\n- Azure AD Access Reviews\n- Entitlement Management\n- Automated provisioning/deprovisioning\n- Audit logs integrados com SIEM",
+        "en": "**Hybrid Identity Architecture:**\n- Azure AD Connect in high availability mode\n- Password Hash Synchronization as primary method\n- Pass-through Authentication as backup\n- Seamless SSO for Windows Integrated Auth applications\n\n**Authentication and Security:**\n- Azure AD Premium P2\n- Conditional Access policies by location, device and risk\n- Adaptive MFA with Microsoft Authenticator\n- Azure AD Identity Protection\n- Privileged Identity Management (PIM)\n\n**Application Integration:**\n- 50+ SaaS applications integrated via SAML/OAuth\n- Application Proxy for on-premises apps\n- Legacy apps via Federation Services\n\n**Governance:**\n- Azure AD Access Reviews\n- Entitlement Management\n- Automated provisioning/deprovisioning\n- Audit logs integrated with SIEM",
+        "es": "**Arquitectura de Identidad Híbrida:**\n- Azure AD Connect en modo de alta disponibilidad\n- Password Hash Synchronization como método primario\n- Pass-through Authentication como backup\n- Seamless SSO para aplicaciones Windows Integrated Auth\n\n**Autenticación y Seguridad:**\n- Azure AD Premium P2\n- Políticas de Acceso Condicional por ubicación, dispositivo y riesgo\n- MFA adaptativo con Microsoft Authenticator\n- Azure AD Identity Protection\n- Privileged Identity Management (PIM)\n\n**Integración de Aplicaciones:**\n- 50+ aplicaciones SaaS integradas vía SAML/OAuth\n- Application Proxy para apps on-premises\n- Apps legacy vía Federation Services\n\n**Gobernanza:**\n- Azure AD Access Reviews\n- Entitlement Management\n- Provisioning/deprovisioning automatizado\n- Audit logs integrados con SIEM"
+      },
+      "results": {
+        "pt": "- 🔐 **99.9% de uptime** do serviço de autenticação\n- ⚡ **Redução de 85% em chamados** de reset de senha\n- 🎯 **SSO implementado** em 100% das aplicações cloud\n- 🔒 **Zero incidentes** de comprometimento de identidade\n- 👥 **NPS de 92** na experiência de login\n- 💰 **ROI de 180%** com redução de helpdesk\n- ⏱️ **Redução de 70% no tempo** de onboarding\n- 📊 **Visibilidade completa** de acessos e permissões",
+        "en": "- 🔐 **99.9% uptime** of authentication service\n- ⚡ **85% reduction in password** reset tickets\n- 🎯 **SSO implemented** in 100% of cloud applications\n- 🔒 **Zero incidents** of identity compromise\n- 👥 **NPS of 92** in login experience\n- 💰 **ROI of 180%** with helpdesk reduction\n- ⏱️ **70% reduction in onboarding** time\n- 📊 **Complete visibility** of access and permissions",
+        "es": "- 🔐 **99.9% de uptime** del servicio de autenticación\n- ⚡ **Reducción de 85% en tickets** de reset de contraseña\n- 🎯 **SSO implementado** en 100% de aplicaciones cloud\n- 🔒 **Cero incidentes** de compromiso de identidad\n- 👥 **NPS de 92** en experiencia de login\n- 💰 **ROI de 180%** con reducción de helpdesk\n- ⏱️ **Reducción de 70% en tiempo** de onboarding\n- 📊 **Visibilidad completa** de accesos y permisos"
+      },
+      "technologies": [
+        "Azure Active Directory Premium P2",
+        "Azure AD Connect",
+        "Conditional Access",
+        "Multi-Factor Authentication",
+        "Azure AD Identity Protection",
+        "Privileged Identity Management",
+        "Azure AD Application Proxy",
+        "AD FS",
+        "PowerShell",
+        "Microsoft Graph API",
+        "Azure Monitor"
+      ],
+      "testimonial": {
+        "pt": "A implementação de identidade híbrida simplificou drasticamente nossa segurança e melhorou a experiência dos usuários. Projeto executado com maestria.",
+        "en": "The hybrid identity implementation drastically simplified our security and improved user experience. Project executed with mastery.",
+        "es": "La implementación de identidad híbrida simplificó drásticamente nuestra seguridad y mejoró la experiencia de los usuarios. Proyecto ejecutado con maestría.",
+        "author": "CISO"
+      }
+    }
+  ]
+}

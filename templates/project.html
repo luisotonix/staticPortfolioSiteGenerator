@@ -1,0 +1,116 @@
+<!-- Project Header -->
+<article class="project-detail">
+    <header class="project-header">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="/portfolio.html">Portfolio</a> / <span>{{title}}</span>
+            </div>
+            <h1 class="project-title">{{title}}</h1>
+            <div class="project-meta">
+                <span class="category">{{category}}</span>
+                <span class="separator">•</span>
+                <time datetime="{{date}}">{{formatted-date}}</time>
+                <span class="separator">•</span>
+                <span class="client">{{client}}</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Featured Image -->
+    <div class="project-featured-image">
+        <img src="{{image}}" alt="{{title}}" />
+    </div>
+
+    <!-- Project Summary -->
+    <section class="project-summary">
+        <div class="container">
+            <div class="summary-content">
+                <h2>{{summary-title}}</h2>
+                <p class="lead">{{summary}}</p>
+            </div>
+            <div class="summary-sidebar">
+                <div class="info-box">
+                    <h3>{{technologies-title}}</h3>
+                    <div class="tech-tags">
+                        {{technologies}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Challenge Section -->
+    <section class="project-section challenge-section">
+        <div class="container container-narrow">
+            <div class="section-icon">🎯</div>
+            <h2>{{challenge-title}}</h2>
+            <div class="section-content">
+                {{challenge}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section class="project-section solution-section">
+        <div class="container container-narrow">
+            <div class="section-icon">💡</div>
+            <h2>{{solution-title}}</h2>
+            <div class="section-content">
+                {{solution}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="project-gallery">
+        <div class="container">
+            <h2>{{gallery-title}}</h2>
+            <div class="gallery-grid">
+                {{gallery}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="project-section results-section">
+        <div class="container container-narrow">
+            <div class="section-icon">📊</div>
+            <h2>{{results-title}}</h2>
+            <div class="section-content results-grid">
+                {{results}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonial Section -->
+    <section class="testimonial-section">
+        <div class="container container-narrow">
+            <div class="testimonial">
+                <div class="testimonial-icon">💬</div>
+                <blockquote>
+                    <p>"{{testimonial}}"</p>
+                    <footer>— {{testimonial-author}}</footer>
+                </blockquote>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="project-cta">
+        <div class="container">
+            <h2>{{cta-title}}</h2>
+            <p>{{cta-description}}</p>
+            <a href="/contact.html" class="btn btn-primary btn-large">{{cta-button}}</a>
+        </div>
+    </section>
+</article>
+
+<!-- Related Projects -->
+<section class="related-projects">
+    <div class="container">
+        <h3>{{related-projects-title}}</h3>
+        <div class="portfolio-grid">
+            {{related-projects}}
+        </div>
+    </div>
+</section>

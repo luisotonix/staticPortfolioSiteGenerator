@@ -1,0 +1,346 @@
+{
+  "home": {
+    "hero": {
+      "title": {
+        "pt": "Transformando Infraestrutura com Soluções Microsoft",
+        "en": "Transforming Infrastructure with Microsoft Solutions",
+        "es": "Transformando Infraestructura con Soluciones Microsoft"
+      },
+      "subtitle": {
+        "pt": "System Admin especializado em Azure, Microsoft 365 e Power Platform",
+        "en": "System Admin specialized in Azure, Microsoft 365 and Power Platform",
+        "es": "System Admin especializado en Azure, Microsoft 365 y Power Platform"
+      },
+      "cta": {
+        "pt": "Ver Projetos",
+        "en": "View Projects",
+        "es": "Ver Proyectos"
+      }
+    },
+    "highlights": [
+      {
+        "icon": "🔧",
+        "title": {
+          "pt": "Administração de Sistemas",
+          "en": "System Administration",
+          "es": "Administración de Sistemas"
+        },
+        "description": {
+          "pt": "Gerenciamento completo de infraestrutura Microsoft on-premises e cloud",
+          "en": "Complete management of Microsoft on-premises and cloud infrastructure",
+          "es": "Gestión completa de infraestructura Microsoft on-premises y cloud"
+        }
+      },
+      {
+        "icon": "☁️",
+        "title": {
+          "pt": "Azure Cloud",
+          "en": "Azure Cloud",
+          "es": "Azure Cloud"
+        },
+        "description": {
+          "pt": "Implementação e otimização de soluções em Azure",
+          "en": "Implementation and optimization of Azure solutions",
+          "es": "Implementación y optimización de soluciones en Azure"
+        }
+      },
+      {
+        "icon": "📊",
+        "title": {
+          "pt": "Power Platform",
+          "en": "Power Platform",
+          "es": "Power Platform"
+        },
+        "description": {
+          "pt": "Automação de processos com Power Automate, Power Apps e Power BI",
+          "en": "Process automation with Power Automate, Power Apps and Power BI",
+          "es": "Automatización de procesos con Power Automate, Power Apps y Power BI"
+        }
+      },
+      {
+        "icon": "🔐",
+        "title": {
+          "pt": "Segurança e Compliance",
+          "en": "Security and Compliance",
+          "es": "Seguridad y Cumplimiento"
+        },
+        "description": {
+          "pt": "Implementação de políticas de segurança e conformidade",
+          "en": "Implementation of security and compliance policies",
+          "es": "Implementación de políticas de seguridad y cumplimiento"
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": {
+      "pt": "Sobre Mim",
+      "en": "About Me",
+      "es": "Acerca de Mí"
+    },
+    "intro": {
+      "pt": "System Admin com mais de 10 anos de experiência em ambientes Microsoft, especializado em soluções cloud e automação de processos.",
+      "en": "System Admin with over 10 years of experience in Microsoft environments, specialized in cloud solutions and process automation.",
+      "es": "System Admin con más de 10 años de experiencia en entornos Microsoft, especializado en soluciones cloud y automatización de procesos."
+    },
+    "bio": {
+      "pt": "Ao longo da minha carreira, implementei e gerenciei infraestruturas complexas para empresas de diversos portes. Minha especialização inclui Azure, Microsoft 365, Active Directory, PowerShell, e Power Platform. Sou apaixonado por automação e busco constantemente otimizar processos através da tecnologia.",
+      "en": "Throughout my career, I have implemented and managed complex infrastructures for companies of various sizes. My expertise includes Azure, Microsoft 365, Active Directory, PowerShell, and Power Platform. I am passionate about automation and constantly seek to optimize processes through technology.",
+      "es": "A lo largo de mi carrera, he implementado y gestionado infraestructuras complejas para empresas de diversos tamaños. Mi especialización incluye Azure, Microsoft 365, Active Directory, PowerShell y Power Platform. Soy apasionado por la automatización y busco constantemente optimizar procesos a través de la tecnología."
+    },
+    "skills": [
+      {
+        "category": {
+          "pt": "Cloud Computing",
+          "en": "Cloud Computing",
+          "es": "Computación en la Nube"
+        },
+        "items": ["Azure IaaS", "Azure PaaS", "Azure AD", "Azure DevOps", "Hybrid Cloud"]
+      },
+      {
+        "category": {
+          "pt": "Microsoft 365",
+          "en": "Microsoft 365",
+          "es": "Microsoft 365"
+        },
+        "items": ["Exchange Online", "SharePoint Online", "Teams", "Intune", "Security & Compliance"]
+      },
+      {
+        "category": {
+          "pt": "Automação",
+          "en": "Automation",
+          "es": "Automatización"
+        },
+        "items": ["PowerShell", "Power Automate", "Azure Automation", "Logic Apps", "Runbooks"]
+      },
+      {
+        "category": {
+          "pt": "Power Platform",
+          "en": "Power Platform",
+          "es": "Power Platform"
+        },
+        "items": ["Power Apps", "Power Automate", "Power BI", "Dataverse", "Power Virtual Agents"]
+      },
+      {
+        "category": {
+          "pt": "Infraestrutura",
+          "en": "Infrastructure",
+          "es": "Infraestructura"
+        },
+        "items": ["Active Directory", "Group Policy", "Windows Server", "Hyper-V", "Backup & Recovery"]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Microsoft Certified: Azure Administrator Associate",
+        "date": "2023",
+        "badge": "AZ-104"
+      },
+      {
+        "name": "Microsoft 365 Certified: Enterprise Administrator Expert",
+        "date": "2023",
+        "badge": "MS-100/MS-101"
+      },
+      {
+        "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "date": "2022",
+        "badge": "SC-900"
+      }
+    ]
+  },
+  "services": {
+    "title": {
+      "pt": "Serviços",
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "intro": {
+      "pt": "Ofereço consultoria e implementação de soluções Microsoft para empresas que buscam otimizar sua infraestrutura e processos.",
+      "en": "I offer consulting and implementation of Microsoft solutions for companies looking to optimize their infrastructure and processes.",
+      "es": "Ofrezco consultoría e implementación de soluciones Microsoft para empresas que buscan optimizar su infraestructura y procesos."
+    },
+    "list": [
+      {
+        "icon": "☁️",
+        "title": {
+          "pt": "Migração para Azure",
+          "en": "Azure Migration",
+          "es": "Migración a Azure"
+        },
+        "description": {
+          "pt": "Planejamento e execução de migração de infraestrutura on-premises para Azure, incluindo avaliação, arquitetura, implementação e otimização de custos.",
+          "en": "Planning and execution of on-premises infrastructure migration to Azure, including assessment, architecture, implementation and cost optimization.",
+          "es": "Planificación y ejecución de migración de infraestructura on-premises a Azure, incluyendo evaluación, arquitectura, implementación y optimización de costos."
+        },
+        "features": {
+          "pt": ["Avaliação de infraestrutura", "Planejamento de migração", "Implementação Azure", "Otimização de custos", "Suporte pós-migração"],
+          "en": ["Infrastructure assessment", "Migration planning", "Azure implementation", "Cost optimization", "Post-migration support"],
+          "es": ["Evaluación de infraestructura", "Planificación de migración", "Implementación Azure", "Optimización de costos", "Soporte post-migración"]
+        }
+      },
+      {
+        "icon": "📧",
+        "title": {
+          "pt": "Implementação Microsoft 365",
+          "en": "Microsoft 365 Implementation",
+          "es": "Implementación Microsoft 365"
+        },
+        "description": {
+          "pt": "Configuração completa do Microsoft 365, incluindo Exchange Online, SharePoint, Teams, segurança e compliance.",
+          "en": "Complete Microsoft 365 setup, including Exchange Online, SharePoint, Teams, security and compliance.",
+          "es": "Configuración completa de Microsoft 365, incluyendo Exchange Online, SharePoint, Teams, seguridad y cumplimiento."
+        },
+        "features": {
+          "pt": ["Configuração de tenant", "Migração de email", "Políticas de segurança", "Compliance e DLP", "Treinamento de usuários"],
+          "en": ["Tenant configuration", "Email migration", "Security policies", "Compliance and DLP", "User training"],
+          "es": ["Configuración de tenant", "Migración de email", "Políticas de seguridad", "Compliance y DLP", "Capacitación de usuarios"]
+        }
+      },
+      {
+        "icon": "⚡",
+        "title": {
+          "pt": "Automação com Power Platform",
+          "en": "Power Platform Automation",
+          "es": "Automatización con Power Platform"
+        },
+        "description": {
+          "pt": "Desenvolvimento de soluções de automação personalizadas usando Power Automate, Power Apps e Power BI para otimizar processos de negócio.",
+          "en": "Development of custom automation solutions using Power Automate, Power Apps and Power BI to optimize business processes.",
+          "es": "Desarrollo de soluciones de automatización personalizadas usando Power Automate, Power Apps y Power BI para optimizar procesos de negocio."
+        },
+        "features": {
+          "pt": ["Automação de fluxos", "Apps personalizados", "Dashboards Power BI", "Integração de sistemas", "RPA"],
+          "en": ["Flow automation", "Custom apps", "Power BI dashboards", "System integration", "RPA"],
+          "es": ["Automatización de flujos", "Apps personalizadas", "Dashboards Power BI", "Integración de sistemas", "RPA"]
+        }
+      },
+      {
+        "icon": "🔐",
+        "title": {
+          "pt": "Segurança e Compliance",
+          "en": "Security and Compliance",
+          "es": "Seguridad y Cumplimiento"
+        },
+        "description": {
+          "pt": "Implementação de políticas de segurança, identity management, conditional access e soluções de compliance para ambientes Microsoft.",
+          "en": "Implementation of security policies, identity management, conditional access and compliance solutions for Microsoft environments.",
+          "es": "Implementación de políticas de seguridad, gestión de identidad, acceso condicional y soluciones de cumplimiento para entornos Microsoft."
+        },
+        "features": {
+          "pt": ["Azure AD Premium", "Conditional Access", "MFA", "Information Protection", "Compliance Center"],
+          "en": ["Azure AD Premium", "Conditional Access", "MFA", "Information Protection", "Compliance Center"],
+          "es": ["Azure AD Premium", "Acceso Condicional", "MFA", "Protección de Información", "Centro de Cumplimiento"]
+        }
+      },
+      {
+        "icon": "🔧",
+        "title": {
+          "pt": "Consultoria e Suporte",
+          "en": "Consulting and Support",
+          "es": "Consultoría y Soporte"
+        },
+        "description": {
+          "pt": "Consultoria técnica especializada e suporte contínuo para ambientes Microsoft, troubleshooting e otimização de performance.",
+          "en": "Specialized technical consulting and ongoing support for Microsoft environments, troubleshooting and performance optimization.",
+          "es": "Consultoría técnica especializada y soporte continuo para entornos Microsoft, troubleshooting y optimización de rendimiento."
+        },
+        "features": {
+          "pt": ["Consultoria técnica", "Troubleshooting", "Otimização de performance", "Planejamento de capacidade", "Suporte 24/7"],
+          "en": ["Technical consulting", "Troubleshooting", "Performance optimization", "Capacity planning", "24/7 Support"],
+          "es": ["Consultoría técnica", "Troubleshooting", "Optimización de rendimiento", "Planificación de capacidad", "Soporte 24/7"]
+        }
+      },
+      {
+        "icon": "🎓",
+        "title": {
+          "pt": "Treinamento e Capacitação",
+          "en": "Training and Enablement",
+          "es": "Capacitación y Habilitación"
+        },
+        "description": {
+          "pt": "Treinamentos personalizados para equipes técnicas em tecnologias Microsoft, Azure, Power Platform e boas práticas.",
+          "en": "Customized training for technical teams in Microsoft technologies, Azure, Power Platform and best practices.",
+          "es": "Capacitaciones personalizadas para equipos técnicos en tecnologías Microsoft, Azure, Power Platform y mejores prácticas."
+        },
+        "features": {
+          "pt": ["Treinamentos in-company", "Workshops práticos", "Documentação técnica", "Transferência de conhecimento", "Preparação para certificação"],
+          "en": ["In-company training", "Practical workshops", "Technical documentation", "Knowledge transfer", "Certification preparation"],
+          "es": ["Capacitación in-company", "Talleres prácticos", "Documentación técnica", "Transferencia de conocimiento", "Preparación para certificación"]
+        }
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "pt": "Contato",
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "intro": {
+      "pt": "Entre em contato para discutir como posso ajudar sua empresa com soluções Microsoft.",
+      "en": "Get in touch to discuss how I can help your company with Microsoft solutions.",
+      "es": "Póngase en contacto para discutir cómo puedo ayudar a su empresa con soluciones Microsoft."
+    },
+    "form": {
+      "name": {
+        "pt": "Nome",
+        "en": "Name",
+        "es": "Nombre"
+      },
+      "email": {
+        "pt": "E-mail",
+        "en": "Email",
+        "es": "Correo electrónico"
+      },
+      "subject": {
+        "pt": "Assunto",
+        "en": "Subject",
+        "es": "Asunto"
+      },
+      "message": {
+        "pt": "Mensagem",
+        "en": "Message",
+        "es": "Mensaje"
+      },
+      "submit": {
+        "pt": "Enviar Mensagem",
+        "en": "Send Message",
+        "es": "Enviar Mensaje"
+      }
+    },
+    "info": {
+      "email": {
+        "label": {
+          "pt": "E-mail",
+          "en": "Email",
+          "es": "Correo electrónico"
+        },
+        "value": "contato@seudominio.com"
+      },
+      "location": {
+        "label": {
+          "pt": "Localização",
+          "en": "Location",
+          "es": "Ubicación"
+        },
+        "value": {
+          "pt": "São Paulo, Brasil",
+          "en": "São Paulo, Brazil",
+          "es": "São Paulo, Brasil"
+        }
+      },
+      "availability": {
+        "label": {
+          "pt": "Disponibilidade",
+          "en": "Availability",
+          "es": "Disponibilidad"
+        },
+        "value": {
+          "pt": "Disponível para projetos",
+          "en": "Available for projects",
+          "es": "Disponible para proyectos"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+<!-- Page Header -->
+<section class="page-header">
+    <div class="container">
+        <h1>{{page-title}}</h1>
+        <p class="page-subtitle">{{intro}}</p>
+    </div>
+</section>
+
+<!-- Filter Section -->
+<section class="filter-section">
+    <div class="container">
+        <div class="filter-buttons" id="portfolioFilter">
+            <button class="filter-btn active" data-category="all">{{all}}</button>
+            {{category-filters}}
+        </div>
+    </div>
+</section>
+
+<!-- Projects Grid -->
+<section class="portfolio-section">
+    <div class="container">
+        <div class="portfolio-grid" id="portfolioGrid">
+            {{projects}}
+        </div>
+    </div>
+</section>
